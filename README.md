@@ -11,7 +11,7 @@ This project explores machine learning approaches to predict podcast episode lis
 | Model         | File                                  | Description                                                                 |
 |---------------|---------------------------------------|-----------------------------------------------------------------------------|
 | XGBoost       | `predict_podcast_using_xgb-develop.ipynb` | Uses gradient boosting decision trees with extensive feature engineering and hyperparameter tuning. |
-| Random Forest | `predict_podcast_using_rf_nf.ipynb`   | A robust baseline ensemble model known for its strong generalization.       |
+| Random Forest | `predict_podcast_using_Random_Forest.ipynb`   | A robust baseline ensemble model known for its strong generalization. Chosen for its performance under RMSE evaluation.      |
 | LightGBM      | `yasuko_LightGBM.ipynb`               | Fast, efficient, and scalable boosting model for large datasets.            |
 
 ---
@@ -69,7 +69,7 @@ This project explores machine learning approaches to predict podcast episode lis
 - Feature engineering captured podcast-specific patterns such as:
     - `Ad_Ratio` (ad density)
     - `Podcast_Trend_Slope` (episode-level trend)
-- Evaluation metric: **Root Mean Squared Error (RMSE)**
+- Evaluation metric: **Root Mean Squared Error (RMSE)**, **Cross-Validation**
 
 ---
 
@@ -84,7 +84,7 @@ This project explores machine learning approaches to predict podcast episode lis
 
 ```
 ├── predict_podcast_using_xgb-develop.ipynb
-├── predict_podcast_using_rf_nf.ipynb
+├── predict_podcast_using_Random_Forest.ipynb
 ├── predict_podcast_using_LightGBM.ipynb
 └── README.md
 ```
