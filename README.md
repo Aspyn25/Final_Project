@@ -105,5 +105,7 @@ This project explores machine learning approaches to predict podcast episode lis
 
 **Aspyn Song** – Data Analyst / Data Scientist in training  
 📧 jeongfree25@gmail.com
+**Grace** – Data Analyst / Data Scientist in training  
+📧 dbwjd1742@gmail.com
 **Yasuko** – Data Analyst / Data Scientist in training  
 📧 ysk06.sss@gmail.com
