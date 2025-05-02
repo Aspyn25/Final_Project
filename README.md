@@ -85,7 +85,7 @@ This project explores machine learning approaches to predict podcast episode lis
 ```
 ├── predict_podcast_using_xgb-develop.ipynb
 ├── predict_podcast_using_rf_nf.ipynb
-├── yasuko_LightGBM.ipynb
+├── predict_podcast_using_LightGBM.ipynb
 └── README.md
 ```
 
@@ -110,4 +110,4 @@ This project explores machine learning approaches to predict podcast episode lis
 📧 dbwjd1742@gmail.com
 
 **Yasuko** – Data Analyst / Data Scientist in training  
-📧 ysk06.sss@gmail.com
+📧
